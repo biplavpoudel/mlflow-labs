@@ -1,0 +1,10 @@
+[project]
+name = "mlflow-practice"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "notebook>=7.4.5",
+    "pandas-stubs==2.3.0.250703",
+]
