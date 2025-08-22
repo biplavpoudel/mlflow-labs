@@ -4,5 +4,5 @@
     <option name="sdkName" value="uv (mlflow_practice)" />
   </component>
   <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="uv (mlflow_practice)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (mlflow_labs)" project-jdk-type="Python SDK" />
 </project>
